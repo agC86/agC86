@@ -6,11 +6,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-24292F?logo=vercel&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-24292F?logo=cloudflare&logoColor=fff)
 
-![LowLevelNotes API](https://api.lowlevelnotes.com/status.svg?v=1.0)
+![LowLevelNotes API](https://api.lowlevelnotes.com/status.svg?v=0)
 
-![LowLevelNotes API](https://api.lowlevelnotes.com/history.svg?v=1)
+![LowLevelNotes API](https://api.lowlevelnotes.com/history.svg?v=0)
 
-![LowLevelNotes API](https://api.lowlevelnotes.com/stats.svg?v=1)
+![LowLevelNotes API](https://api.lowlevelnotes.com/stats.svg?v=0)
 
-![LowLevelNotes API](https://api.lowlevelnotes.com/courses.svg?v=1)
+![LowLevelNotes API](https://api.lowlevelnotes.com/courses.svg?v=0)
 
